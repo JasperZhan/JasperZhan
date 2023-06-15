@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+// visitor - count
+![JasperZhan's Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 // github - stats
-https://github-readme-stats.vercel.app/api?username=JasperZhan&theme=dark&show_icons=true
+![JasperZhan's Github Stats](https://github-readme-stats.vercel.app/api?username=JasperZhan&theme=dark&show_icons=true)
 // most - used-language
-https://github-readme-stats.vercel.app/api/top-langs/?username=JasperZhan&layout=compact&hide=html&theme=dark
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperZhan&layout=compact&hide=html&theme=dark)
 // total - contribution
-https://github-readme-streak-stats.herokuapp.com/?user=JasperZhan&theme=highcontrast
+![Total contribution](https://github-readme-streak-stats.herokuapp.com/?user=JasperZhan&theme=highcontrast)
 
